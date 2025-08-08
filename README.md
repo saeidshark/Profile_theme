@@ -21,6 +21,7 @@
 
 - ⚡ Fun fact **I am not funny**
 
+-Languages : ENGLISH , TURKISH , PERSIAN
 
 </p>
 
