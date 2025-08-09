@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad Saeid Bazrafshan</h1>
 <h3 align="center">Software Programmer , web Developer , Web App Developer</h3>
 
+-My Skills :
+SOFTWARE ENGINEER PROGRAMMER
+WEB DEVELOPER
+C++,C#,PYTHON,HTML,CSS,JAVA SCRIPT,PHP,SQLSERVER,POSTGRES,MYSQL,MONGODB,NET CORE MVC,ANGULAR JS,WORDPRESS
+
 - 🔭 I’m currently working on [python: my AI assistant](this project is private)
 
 - 🌱 I’m currently learning **cyber security**
