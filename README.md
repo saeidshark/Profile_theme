@@ -20,7 +20,7 @@ C++,C#,PYTHON,HTML,CSS,JAVA SCRIPT,PHP,SQLSERVER,POSTGRES,MYSQL,MONGODB,NET CORE
 
 - 💬 Ask me about **C++,C#,python,javascript,php,angularjs**
 
-- 📫 How to reach me **alphasharks1@gmail.com**
+- 📫 How to reach me **alphasharks1@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohammad-saeid-bazrafshan-347252379](https://www.linkedin.com/in/mohammad-saeid-bazrafshan-347252379)
 
